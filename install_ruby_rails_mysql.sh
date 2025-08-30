@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# ruby, rails, and mysql
+# ruby, rails, and mysql for Mac
 # homebrew was previously installed
 
 # install Ruby
